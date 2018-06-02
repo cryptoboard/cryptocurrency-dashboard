@@ -1,2 +1,2 @@
-# cryptocurrency-dashboard
-Code related to cryptoboard.tech
+# Cryptoboard.tech | cryptocurrency-dashboard
+Repository for [cryptoboard.tech](https://cryptoboard.tech)
