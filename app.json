@@ -1,0 +1,21 @@
+{
+  "$jason": {
+    "head": {
+      "title": "Cryptoboard",
+      "actions": {
+        "$foreground": {
+          "type": "$reload"
+        }
+      }
+    },
+    "body": {
+      "background": {
+        "type": "html",
+        "url": "https://news.ycombinator.com",
+        "action": {
+          "trigger": "navigate"
+        }
+      }
+    }
+  }
+}
