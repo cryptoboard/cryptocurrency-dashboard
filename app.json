@@ -11,7 +11,7 @@
     "body": {
       "background": {
         "type": "html",
-        "url": "https://cryptoboard.tech",
+        "url": "https://cryptoboard.tech/cryptocurrency-dashboard",
         "action": {
           "trigger": "navigate"
         }
